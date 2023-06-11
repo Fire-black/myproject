@@ -1,11 +1,5 @@
 <?php
 
-function dd($a)
-{
-    var_dump($a); die();
-}
-
-
 require_once ('core/controller.php');
 require_once ('core/model.php');
 require_once ('core/view.php');
